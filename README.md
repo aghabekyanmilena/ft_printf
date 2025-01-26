@@ -12,6 +12,7 @@ The project includes handling for various format specifiers, managing output to 
 Variadic functions: va_start, va_arg, va_copy, va_end
 
 Be attentive with norminette and check project with tests:
+
 https://github.com/42School/norminette
 
 https://github.com/Tripouille/printfTester
